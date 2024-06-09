@@ -15,5 +15,4 @@ public class NameController {
         StringBuilder reversename = new StringBuilder(name).reverse();
         return reversename.toString();
     }
-
 }
